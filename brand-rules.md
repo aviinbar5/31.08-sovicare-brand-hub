@@ -118,3 +118,87 @@ All are fully round, 46px high, Inter 500 at 14px.
 - One serif highlight word on the entire page.
 - Never two dark blocks adjacent.
 - The assessment disclaimer appears above the fold.
+
+---
+
+## Edition 01.1 — approved rulings
+
+Six conflicts between this file, the Master UX Specification and the assessment
+wireframe were escalated and ruled on. The rulings below amend the rules above
+and take precedence over them.
+
+### 1. A headline is never a question — scoped
+
+The rule governs **section headlines**. It does not govern question prompts.
+
+In the Personal Fit Assessment the question itself **is** the headline of its
+state. Never add a second headline above it. Helper copy appears only where
+context is genuinely needed.
+
+### 2. Symptoms in the hero — upheld and tightened
+
+No symptom list in the hero headline or subhead. The hero stays broad and
+premium, relevant to men experiencing age-related change without asking them to
+self-diagnose. It carries two lines only:
+
+    Men's longevity, made simple.
+    Start with answers, not assumptions.
+
+Specific symptoms enter immediately afterward, through the Assessment and the
+Care Areas — never before.
+
+### 3. Rest / Daily / Drive — demoted
+
+The three product names are supporting wellness groupings, not primary
+navigation. They live inside Daily Support / Supplements, Longevity Lifestyle,
+and personalised recommendations. They never compete with the care-area
+architecture.
+
+### 4. One foundational layer
+
+The Styleguide **becomes** Foundations. There is no second foundational system.
+Existing approved Styleguide content is preserved; layout and grid, spacing,
+photography, iconography, motion, voice and tone, and digital application rules
+are added to it.
+
+### 5. Serif budget — by moment, not by count
+
+The display serif belongs to editorial moments: hero, andropause and education,
+longevity lifestyle, final CTA. Never across functional UI.
+
+The hero mixes faces on one line: *answers* takes the serif italic emphasis in
+"Start with answers, not assumptions."
+
+### 6. Yellow and dark sections — page budget
+
+Yellow is a restrained accent: Quadrant geometry, small labels, selected
+editorial detail, visual punctuation. Never a large section background. Never
+the active state in the assessment — primary functional state stays teal and
+blue.
+
+The page runs light. Two to three deliberate Deep Teal anchor sections,
+footer excluded: the personalised outcome reveal, Why SoviCare and clinical
+credibility, and at most one further editorial anchor if page rhythm needs it.
+The assessment itself stays light.
+
+---
+
+## Demo status of clinical content
+
+Both questionnaire experiences in this system are **prototypes**, built to
+demonstrate structure, interaction, progression, branching, microcopy, motion,
+result states and clinician handoff.
+
+Realistic illustrative medical questions are permitted where finally approved
+wording does not yet exist. Every screen carrying them shows:
+
+> DEMO ONLY — final wording, clinical logic and eligibility criteria require
+> clinical/legal approval before production use.
+
+Still prohibited, in demo as in production: invented contraindication rules,
+diagnosis logic, eligibility thresholds, clinical statistics, success rates,
+endorsements, certifications, approval badges, and any named prescription
+medication presented as a recommendation.
+
+Where a real system would branch on clinical criteria, the demo branches on a
+plainly non-clinical answer choice and says so on the screen.
